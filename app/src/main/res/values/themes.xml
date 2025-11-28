@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App theme -->
+    <style name="Theme.SavedPalettes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- You can customize these colors later -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryVariant">@android:color/darker_gray</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/black</item>
+    </style>
+
+</resources>
